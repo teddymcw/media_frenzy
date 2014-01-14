@@ -1,0 +1,7 @@
+*.pyc
+*.db
+*.pyo
+bin
+include
+lib
+.DS_Store
